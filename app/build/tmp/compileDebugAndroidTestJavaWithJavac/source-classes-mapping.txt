@@ -1,0 +1,4 @@
+com/example/senseit/test/BuildConfig.java
+ com.example.senseit.test.BuildConfig
+com/example/senseit/ExampleInstrumentedTest.java
+ com.example.senseit.ExampleInstrumentedTest

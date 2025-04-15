@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_white"
+    android:forceDarkAllowed="false"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:targetApi="q">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="7dp"
+
+        android:orientation="vertical"
+        android:weightSum="1.6">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            app:cardElevation="8dp">
+
+            <RelativeLayout
+                android:id="@+id/heart_rate_card"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/blue_bg">
+
+
+                <TextView
+                    android:id="@+id/heart_rate_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:fontFamily="@font/montserrat"
+                    android:padding="5dp"
+                    android:text="@string/no_value"
+                    android:textColor="@color/light_white"
+                    android:textSize="13sp" />
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            app:cardElevation="8dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_white">
+
+                <RelativeLayout
+                    android:id="@+id/accelerometer_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/orange_bg">
+
+                    <TextView
+                        android:id="@+id/accelerometer_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:fontFamily="@font/montserrat"
+                        android:padding="5dp"
+                        android:text="@string/no_value"
+                        android:textColor="@color/light_white"
+                        android:textSize="13sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            app:cardElevation="8dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_white">
+
+                <RelativeLayout
+                    android:id="@+id/gyro_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pink_bg">
+
+                    <TextView
+                        android:id="@+id/gyro_value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:fontFamily="@font/montserrat"
+                        android:padding="5dp"
+                        android:text="@string/no_value"
+                        android:textColor="@color/light_white"
+                        android:textSize="13sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:onClick="onSyncClick"
+            app:cardElevation="8dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:background="@color/light_white">
+
+
+                <Button
+                    android:id="@+id/startButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#4DB500"
+                    android:fontFamily="@font/montserrat"
+                    android:text="START"
+
+                    android:textColor="@color/light_white"
+                    android:textSize="13sp">
+                </Button>
+
+                <Button
+                    android:id="@+id/stopButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b51300"
+                    android:fontFamily="@font/montserrat"
+                    android:text="STOP"
+                    android:visibility="gone"
+                    android:textColor="@color/light_white"
+                    android:textSize="13sp">
+            </Button>
+
+
+            <!--                <RelativeLayout-->
+
+            <!--                    android:layout_width="match_parent"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:background="@color/dark_yellow"-->
+            <!--                    >-->
+            <!--                    <TextView-->
+
+            <!--                        android:layout_width="wrap_content"-->
+            <!--                        android:layout_height="wrap_content"-->
+            <!--                        android:layout_centerVertical="true"-->
+            <!--                        android:layout_centerHorizontal="true"-->
+            <!--                        android:padding="5dp"-->
+            <!--                        android:text="SYNC"-->
+            <!--                        android:textSize="13sp"-->
+            <!--                        android:textColor="@color/light_white"-->
+            <!--                        android:fontFamily="@font/montserrat"-->
+            <!--                        />-->
+            <!--                </RelativeLayout>-->
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout></LinearLayout>

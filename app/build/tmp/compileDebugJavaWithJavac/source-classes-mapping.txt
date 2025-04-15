@@ -1,0 +1,29 @@
+com/example/senseit/Config.java
+ com.example.senseit.Config
+com/example/senseit/ForegroundProcess.java
+ com.example.senseit.ForegroundProcess
+ com.example.senseit.ForegroundProcess$1
+ com.example.senseit.ForegroundProcess$2
+ com.example.senseit.ForegroundProcess$ApiService
+ com.example.senseit.ForegroundProcess$getTime
+com/example/senseit/MainActivity.java
+ com.example.senseit.MainActivity
+ com.example.senseit.MainActivity$1
+ com.example.senseit.MainActivity$2
+ com.example.senseit.MainActivity$3
+ com.example.senseit.MainActivity$4
+ com.example.senseit.MainActivity$ApiService
+ com.example.senseit.MainActivity$getTime
+com/example/senseit/DatabaseHelper.java
+ com.example.senseit.DatabaseHelper
+com/example/senseit/HistoryActivity.java
+ com.example.senseit.HistoryActivity
+ com.example.senseit.HistoryActivity$1
+com/example/senseit/Globe.java
+ com.example.senseit.Globe
+com/example/senseit/CustomAdapter.java
+ com.example.senseit.CustomAdapter
+com/example/senseit/SensorValue.java
+ com.example.senseit.SensorValue
+com/example/senseit/BuildConfig.java
+ com.example.senseit.BuildConfig

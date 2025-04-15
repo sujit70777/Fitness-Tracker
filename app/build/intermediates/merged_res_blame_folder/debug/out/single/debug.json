@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menu.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_cancel_24.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history_column1_shape.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable\\history_column1_shape.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_history_options_menu.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\menu\\history_options_menu.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_menu_open_24.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_menu_open_24.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history_listview_bg.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable\\history_listview_bg.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_accelerometer_icon.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\accelerometer_icon.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_senseit_logo.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\senseit_logo.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.ttf.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pink_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\pink_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_warning_24.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orange_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\orange_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gyroscope_icon.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\gyroscope_icon.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_warning_24_red.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_warning_24_red.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_history.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\layout\\listview_history.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history_column2_shape.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable\\history_column2_shape.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_circle_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_circle_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_light_icon.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\light_icon.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yellow_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\yellow_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blue_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\blue_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_menu_open_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_menu_open_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_circle_24.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_circle_24.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_cancel_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_cancel_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.ttf.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\font\\aclonica.ttf"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.ttf.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\font\\acme.ttf"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_warning_24_red.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_warning_24_red.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_green_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\green_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_purple_bg.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\purple_bg.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_proximity_icon.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\drawable-v24\\proximity_icon.png"
+    },
+    {
+        "merged": "E:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work From HOME\\SENSEit-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

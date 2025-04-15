@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SENSEit</string>
+    <string name="sensing_title">What\'s your companion sensing</string>
+    <string name="bg_desc">normal card-view background image</string>
+    <string name="gyroscope_card_title">What\'s Gyroscope Sensor sensing(rad/s):</string>
+    <string name="accelerometer_card_title">What\'s Accelerometer Sensor sensing(m/s2):</string>
+    <string name="proximity_card_title">What\'s Proximity Sensor sensing(cm):</string>
+    <string name="light_card_title">What\'s Light Sensor sensing(lux):</string>
+    <string name="no_value">00.0</string>
+    <string name="not_available_light">Light sensor is not available</string>
+    <string name="not_available_proxy">Proximity sensor is not available</string>
+    <string name="not_available_accelerometer">Accelerometer sensor is not available</string>
+    <string name="not_available_gyro">Gyroscope sensor is not available</string>
+    <string name="stop_service">STOP NOTIFY SERVICE</string>
+    <string name="sample_text">Sample text</string>
+    <string name="time_stamp">TIME STAMP</string>
+    <string name="sensor_values">SENSOR VALUES</string>
+    <string name="light_history_title">HISTORY OF LIGHT SENSOR</string>
+    <string name="proxy_history_title">HISTORY OF PROXIMITY SENSOR</string>
+    <string name="acc_history_title">HISTORY OF ACCELEROMETER SENSOR</string>
+    <string name="gyro_history_title">HISTORY OF GYROSCOPE SENSOR</string>
+    <string name="clear">CLEAR</string>
+</resources>

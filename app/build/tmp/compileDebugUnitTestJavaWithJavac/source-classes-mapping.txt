@@ -1,0 +1,2 @@
+com/example/senseit/ExampleUnitTest.java
+ com.example.senseit.ExampleUnitTest

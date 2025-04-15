@@ -1,0 +1,4 @@
+#Wed Jun 28 08:20:56 BDT 2023
+base.0=E\:\\Work From HOME\\SENSEit-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
