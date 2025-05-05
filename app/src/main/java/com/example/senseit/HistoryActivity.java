@@ -113,7 +113,6 @@ public class HistoryActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 
-        // To clear all data for a specific sensor with a confirmation dialogue
         if (item.getItemId() == R.id.clear) {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setMessage("Want to clear all data for this Sensor?")
