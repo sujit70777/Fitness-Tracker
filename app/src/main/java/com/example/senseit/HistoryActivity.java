@@ -54,10 +54,7 @@ public class HistoryActivity extends AppCompatActivity {
         ArrayList<String> column2 = new ArrayList<>();
         Cursor results;
         switch (id) {
-//            case 1:
-//                results = databaseHelper.getLightData();
-//                title.setText(getString(R.string.light_history_title));
-//                break;
+
             case 2:
                 title.setText(getString(R.string.proxy_history_title));
                 results = databaseHelper.getProxyData();
